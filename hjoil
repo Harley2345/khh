@@ -1,0 +1,14 @@
+changedhealth => new script  {
+  if health > 20 {
+    msg "Your health has changed"
+  }
+}
+
+
+
+AutoDescription = NewFunction {
+  Turn on descriptions.
+}
+Turnoff Descriptions = NewFunction {
+  AutoDesiption.bar = false
+}
