@@ -1,0 +1,5 @@
+ShowPictucture (filename: ""))
+
+PklayDSound ("", false, true")
+
+options = Split(1,2,3,4)
